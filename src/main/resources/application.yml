@@ -13,3 +13,10 @@ eureka:
 management:
   security:
     enabled: false
+
+zuul:
+  routes:
+    client:
+      path: /client/**
+      serviceId: client
+
