@@ -1,4 +1,4 @@
-package com.fishmeat;
+package com.fishmeat.zuul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
